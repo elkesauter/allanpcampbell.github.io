@@ -2,21 +2,33 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## A bike trip from Bennekom, Netherlands to Barcelona, Spain in winter 2019 with a baby and a dog
 
-### Allan Campbell!
+### We are out
 
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
+Dear friends and family, 2 days ago (Saturday 16 Nov) we left NL by bike.  We are heading to Barcelona Allan, Elkita, Paco and Lupe👫👶🐶 with 2 bikes and 2 trailers🚲🚲📦📦.  After 4.5 spectacular years in Holland 🇳🇱, we are headed towards Costa Rica 🇨🇷 to another stage of our lives, close to grandparents, community and the sea 👬👭👬🚶🌊.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ We would like to share our bicycle trip through this chat 💬 open to all English speakers who want to know about the trip.
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This group has a dairy format (read only) solo where only Allan and Elke can send messages.  So there is no obligation to answer 😅 and thus reduce # of messages⬇.
 
-### With footnotes too!
+ If you have anything to tell us as advice, encouragement, or questions, please send us private messages or in the other shared groups.
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
+ Feel free to leave the chat anytime  or when you are tired of seeing us in the same clothes 😬 we do not want to spam.  We promise to keep it short (as much as possible) and juicy 🍊.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### ➖➖➖➖➖➖➖➖
+
+❓How was the idea born❓
+Since we made the walk to Santiago Compostela = we loved slow travel.
+
+ ❓ Why BCN❓
+Since Lupe (because of her breed) can only fly through Iberia.
+
+ ❓Why in November❓
+ We wanted Paco to be 1 year old.  The goal is to arrive before Christmas in Spain.
+
+ ❓Really all by bike❓
+ We would love to but with 👶🐶 = 🐢.  We are going to do some sections by train.
 
 ### Add social sharing buttons
 
