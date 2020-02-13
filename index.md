@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## A bike trip from Bennekom, Netherlands to Barcelona, Spain in winter 2019 with a baby and a dog
+## A cycling trip from NL to BCN with two bikes, two trailers a baby and a dog
 
 ### We are out
 
-Dear friends and family, 2 days ago (Saturday 16 Nov) we left NL by bike.  We are heading to Barcelona Allan, Elkita, Paco and Lupe👫👶🐶 with 2 bikes and 2 trailers🚲🚲📦📦.  After 4.5 spectacular years in Holland 🇳🇱, we are headed towards Costa Rica 🇨🇷 to another stage of our lives, close to grandparents, community and the sea 👬👭👬🚶🌊.
+Dear friends and family, 2 days ago (Saturday 16 Nov) we left NL by bike.  We are heading to Barcelona Allan, Elkita, Paco and Lupe👫👶🐶 with 2 bikes and 2 trailers🚲🚲📦📦.  After 4.5 spectacular years in The Netherlands, we are headed towards Costa Rica to another stage of our lives, close to grandparents, community and the sea 👬👭👬🚶🌊.
 
  We would like to share our bicycle trip through this chat 💬 open to all English speakers who want to know about the trip.
 
@@ -30,22 +30,22 @@ Since Lupe (because of her breed) can only fly through Iberia.
  ❓Really all by bike❓
  We would love to but with 👶🐶 = 🐢.  We are going to do some sections by train.
 
-### Add social sharing buttons
+### ➖➖➖ * Day 1 * ➖➖➖
 
-Simply add the following line anywhere in your markdown:
+Origin: Bennekom, NL
+ Destination: Arnhem, NL
+ Distance: 19.32km
+ Time: 1h 45min
 
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
+We left our house in our beloved village of Bennekom, NL. This day the goal was simply to leave the house.
 
-and get a nice responsive sharing ribbon.
+We managed to leave with the help of Elke's brother/sister. We first went to the neighborhood forest to do a farewell ritual.  Then 1/2 crew including Lupe, went by train to Arnhem. Elke, Paco and Allan went by bike.  Before embarking we did a last stop at the organic store, grabbed provisions 🍞🧀 and said a few last goodbyes.
 
-{% include sharing.html %}
+That day Bennekom was festive because Sinterklaas arrived 🎅🏻to town, we left with background music from the village parade 🎡🎼.
 
-Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
+We left at 4pm, non-efficiently packed, overloaded trailers, pieces of the Allan's bike hanguing out (not yet installed).  But we went out 💪🏻.  Paco was in his closed trailer and with a hot water bottle.  He slept the entire trip-he was warm n' cozy🐨.  Emotions flowed and went up and down like the low hills.  The afternoon was spectacular.  The autumn trees looked like they had gold medallions hanguing down 🍂🍁. The feeling of freedom and achievement was without equal 🦅🖤.
 
-Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
+We ended in a spectacular Airbnb to have our last night of with Elke's family in NL 🥂🍻.
 
 ### Font awesome is also included
 
