@@ -15,8 +15,8 @@ This group has a dairy format (read only) solo where only Allan and Elke can sen
  If you have anything to tell us as advice, encouragement, or questions, please send us private messages or in the other shared groups.
 
  Feel free to leave the chat anytime  or when you are tired of seeing us in the same clothes 😬 we do not want to spam.  We promise to keep it short (as much as possible) and juicy 🍊.
-
-### ---------
+ 
+--- 
 
 ❓How was the idea born❓
 Since we made the walk to Santiago Compostela = we loved slow travel.
@@ -29,6 +29,8 @@ Since Lupe (because of her breed) can only fly through Iberia.
 
  ❓Really all by bike❓
  We would love to but with 👶🐶 = 🐢.  We are going to do some sections by train.
+ 
+ ---
 
 ### ------ * Day 1 * ------
 
